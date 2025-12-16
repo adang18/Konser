@@ -71,8 +71,8 @@
                 <i class="bi bi-calendar-event"></i>
                 {{ \Carbon\Carbon::parse($concert->date)->format('d M Y') }}
             </p>
-            <a href="{{ route('concerts.show', $concert->id) }}" class="btn-detail">
-                Lihat Detail
+            <a href="{{ route('concerts.create', $concert->id) }}" class="btn-detail">
+                Create
             </a>
         </div>
         @endforeach

@@ -72,7 +72,7 @@
                 {{ \Carbon\Carbon::parse($concert->date)->format('d M Y') }}
             </p>
             <a href="{{ route('concerts.create', $concert->id) }}" class="btn-detail">
-                Create
+                Detail Konser
             </a>
         </div>
         @endforeach

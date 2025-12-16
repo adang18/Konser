@@ -19,7 +19,7 @@
         <div style="border: 1px solid #ddd; padding: 20px; width: 250px">
             <h3>Konser</h3>
             <p>Kelola data konser</p>
-            <a href="/admin/concerts">Kelola KonserKU</a>
+            <a href="/admin/concerts">Kelola KonserKUU</a>
         </div>
 
         <div style="border: 1px solid #ddd; padding: 20px; width: 250px">

@@ -61,7 +61,7 @@
 
 <div class="concert-page">
     <div class="container pt-5">
-        <h2 class="concert-title">🎵 Daftar Konser</h2>
+        <h2 class="concert-title">Daftar Konser</h2>
 
         @foreach($concerts as $concert)
         <div class="concert-card">

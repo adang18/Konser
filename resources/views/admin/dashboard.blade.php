@@ -18,7 +18,7 @@
 
         <div style="border: 1px solid #ddd; padding: 20px; width: 250px">
             <h3>Konser</h3>
-            <p>Kelola data konser</p>
+            <p>Kelola data konserKUU</p>
             <a href="/admin/concerts">Kelola Konser</a>
         </div>
 
